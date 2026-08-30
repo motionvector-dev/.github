@@ -13,20 +13,7 @@
 
 ---
 
-### 🛸 Ecosystem & Core Systems
 
-```
-┌───────────────────┬──────────────────────────────────────────────────────────────────────────┐
-│ Repository        │ Mission                                                                  │
-├───────────────────┼──────────────────────────────────────────────────────────────────────────┤
-│ motionvector      │ Deterministic DocIR video rendering engine & sealed domain verbs        │
-│ studio            │ Agentic video studio — generative editing through sealed MCP verbs       │
-│ spacepilot        │ Provenance-first decision layer for single-owner AI compute fleets       │
-│ inference-fleet   │ Unified LiteLLM proxy orchestration & tracked multi-model fleet configs  │
-│ webcodecs-census  │ Zero-overhead allocator telemetry & VideoFrame / AudioData leak audits  │
-│ webmcp-demo       │ Multi-agent closed-loop film editing environment                         │
-└───────────────────┴──────────────────────────────────────────────────────────────────────────┘
-```
 
 ---
 
