@@ -24,8 +24,8 @@
 │                           │ ↳ Web: https://agentworth.dev                                          │
 │                           │ ↳ Source: https://github.com/unfoundbox/agentworth                     │
 ├───────────────────────────┼────────────────────────────────────────────────────────────────────────┤
-│ WebCodecs Census          │ Zero-overhead allocator telemetry & leak audits for WebCodecs/MediaBunny│
+│ WebCodecs Census          │ Zero-overhead allocator telemetry & leak audits for browser media.     │
 │                           │ ↳ Package: npm install @motionvector/webcodecs-census                  │
-│                           │ ↳ Documentation: https://motionvector-dev.github.io/webcodecs-census/ │
+│                           │ ↳ Documentation: https://motionvector-dev.github.io/webcodecs-census/  │
 └───────────────────────────┴────────────────────────────────────────────────────────────────────────┘
 ```
