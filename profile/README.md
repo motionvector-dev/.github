@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>MotionVector</h1>
-  <p><strong>Autonomous Agentic Video Studio & AI Compute Fleet Systems</strong></p>
+  <p><strong> Agentic Studio & AI Compute Fleet Systems</strong></p>
 
   <p>
     <a href="https://motionvector.dev"><img src="https://img.shields.io/badge/Platform-motionvector.dev-000000?style=flat-square" alt="Platform" /></a>
