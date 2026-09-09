@@ -1,6 +1,5 @@
 <div align="center">
 
-  <h1>MotionVector</h1>
   <p><strong> Future is open-source and local AI </strong></p>
 
   <p>
